@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     height="450" width="280"
+     viewBox="52 0 150 420"
+     preserveAspectRatio="xMidYMid">
+    <path fill="#62688F" d="M125.166 285.168l2.795 2.79 127.962-75.638L127.961 0l-2.795 9.5z"/> <!--top right-->
+    <path fill="#8A92B2" d="M127.962 287.959V0L0 212.32z"/> <!--TOP LEFT-->
+    <path fill="#62688F" d="M126.386 412.306l1.575 4.6L256 236.587l-128.038 75.6-1.575 1.92z"/> <!--bottom right-->
+    <path fill="#8A92B2" d="M0 236.585l127.962 180.32v-104.72z"/><!--bottom left-->
+    <path fill="#454A75" d="M127.961 154.159v133.799l127.96-75.637z"/> <!--middle right-->
+    <path fill="#62688F" d="M127.96 154.159L0 212.32l127.96 75.637z"/> <!--middle left-->
+</svg>
