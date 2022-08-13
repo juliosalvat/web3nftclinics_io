@@ -25,7 +25,7 @@
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "BUILD_PATH='./docs' react-scripts build",
     "start:prod": "node start build"
   },
   "browserslist": {
